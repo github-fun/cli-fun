@@ -1,2 +1,2 @@
 # cli-fun
-bonus
+Run me with `./cli-fun.py`.
